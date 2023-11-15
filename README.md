@@ -21,6 +21,23 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+1. Instagram
+- User friendly
+- creative freedom
+
+2. Time Tree
+- organization of events
+- easy to glance at and figure out what is planned for the day
+
+3. Crossy Road
+- constant updates of different characters
+- colorful theme
+
+4. Notes
+- many features, draw, scan, type
+- saves automatically
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
