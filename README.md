@@ -39,12 +39,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 Potential App Idea:
+
 Pantry Tracker and Meal Recommender
+
 Fortune Telling app
+
 Motivational video app
 - This will have a daily video sent to your phone in the morning to then view and get a fresh start to the day.
+
 Game
 - A driving game that teaches people road rules for free. Features include a step by step of getting being the wheel and practical experience on the virtual road. You are able to connect with other people learning as well.
+
 Volunteer Search/Connection App
 - There will be a search function for volunteers to be connected to non profits in their hometown. The organizations post their opportunities on to a board for people to sign up.
 
